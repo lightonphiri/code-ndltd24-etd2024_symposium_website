@@ -208,22 +208,22 @@ imageAnimation {  0% {
 
 #slider-wrapper ul > li:nth-child(5) {
   animation-delay: 32s;
-  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-herd-of-elephants.jpg');
+  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-elephants_near_boat.jpg');
 }
 
 #slider-wrapper ul > li:nth-child(6) {
   animation-delay: 40s;
-  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-airline-routes.jpg');
+  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-horse_trail_safari.jpg');
 }
 
 #slider-wrapper ul > li:nth-child(7) {
   animation-delay: 48s;
-  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-devils-pool.jpg');
+  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-leopards.jpg');
 }
 
 #slider-wrapper ul > li:nth-child(8) {
   animation-delay: 56s;
-  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-victoria_falls.jpg');
+  background-image: url('../../images/slider/etd2024-symposium-2024-photo-of-chilanga_mulilo.jpg');
 }
 
 /* Accordion Styles */
